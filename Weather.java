@@ -1,5 +1,3 @@
-package Weather.Classes;
-
 import java.applet.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
@@ -468,7 +466,7 @@ public class Weather extends Applet
 <html>
 
 <body>
-<applet code="Weather.Classes.Weather" archive="Weather/Classes/" width="1200" height="1000"> Weather App </applet>
+<applet code="Weather.class" width="1200" height="1000"> Weather App </applet>
 </body>
 
 </html>
