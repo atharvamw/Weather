@@ -468,7 +468,7 @@ public class Weather extends Applet
 <html>
 
 <body>
-<applet code = "Weather.class" archive="Weather/Classes/" width="1200" height="1000"> Weather App </applet>
+<applet code = "Weather.Classes.Weather" archive="Weather/Classes/" width="1200" height="1000"> Weather App </applet>
 </body>
 
 </html>
